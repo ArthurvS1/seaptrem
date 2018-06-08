@@ -24,7 +24,17 @@ Esta tela é responsável por controlar o acesso do usuário ao sistema, é a pr
 
 Se você for um programador, faça os seguintes passos:
 
+```
 pip install Django==1.7.4
+```
+```
 cd seaptrem/
+```
+```
 python manage.py runserver
+```
+```
 http://localhost:8000
+```
+
+## Bom uso!
